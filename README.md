@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='TapCounter Video Walkthrough' />
+<img src= https://github.com/joeboykin/W2-TapCounter-L1/blob/b91264299d9619ac4c52d60e502c778b7eb5fd50/TapCounterVideo.gif title='TapCounter Video Walkthrough' width='' alt='TapCounter Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
